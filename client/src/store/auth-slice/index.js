@@ -28,7 +28,7 @@ export const loginUser = createAsyncThunk(
 
   async (formData) => {
     const response = await api.post(
-      "/api/auth/login",
+      "api/auth/login",
       formData,
       {
         withCredentials: true,

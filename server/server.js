@@ -1,5 +1,4 @@
-const dotenv = require("dotenv");
-dotenv.config();
+
 
 const express = require("express");
 const mongoose = require("mongoose");
@@ -31,7 +30,7 @@ const app = express();
 const PORT = process.env.PORT || 5000;
 
 const allowedOrigins = [
-  process.env.CLIENT_URL,
+  "https://e-commerce-web-app-frontend-three.vercel.app",
   "http://localhost:5173",
 ];
 
