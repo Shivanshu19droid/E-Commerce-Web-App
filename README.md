@@ -42,6 +42,21 @@ This project simulates a production-ready online shopping platform with separate
 
 ---
 
+## 🖼️ Screenshots
+
+### User Flow
+![Login Page](screenshots/login-page.png)
+![Home Page](screenshots/home-page.png)
+![All Products](screenshots/all-products.png)
+![My Cart](screenshots/my-cart.png)
+![Payment Gateway](screenshots/payment-gateway.png)
+![Payment Successful](screenshots/payment-successful.png)
+
+### Admin Flow
+![Admin Panel](screenshots/admin-panel.png)
+![Admin Orders Management](screenshots/admin-panel-orders.png)
+
+
 ## 🧑‍💻 Tech Stack
 
 ### Frontend
